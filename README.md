@@ -71,7 +71,7 @@ Welcome to the ultimate curated directory of **cloud purchasing and procurement 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Odoo](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🌟  
   **World's most popular open-source ERP suite**, LGPL-3.0 licensed. **Comprehensive Purchase & Procurement Module**: automated RFQs, purchase orders, vendor price lists, 3-way matching, replenishment rules, and multi-currency vendor bill management. 🏢
